@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../../core/theme.dart';
-import '../../providers/country_provider.dart';
-import '../../models/country.dart';
+import '../../../core/theme.dart';
+import '../../../providers/country_provider.dart';
+import '../../../models/country.dart';
 
 class CountryDetailScreen extends StatefulWidget {
   final String code;

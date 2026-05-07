@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../../models/country.dart';
-import '../../core/theme.dart';
+import '../../../models/country.dart';
+import '../../../core/theme.dart';
 
 class CountryCard extends StatelessWidget {
   final Country country;

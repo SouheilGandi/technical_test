@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:technical_test/presentation/screens/country_detail_screen.dart';
-import '../../providers/country_provider.dart';
-import '../widgets/country_card.dart';
+import 'package:technical_test/presentation/screens/country/country_detail_screen.dart';
+import '../../../providers/country_provider.dart';
+import '../../widgets/country/country_card.dart';
 
 class CountryListScreen extends StatefulWidget {
   const CountryListScreen({super.key});
